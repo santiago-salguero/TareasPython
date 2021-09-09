@@ -1,0 +1,35 @@
+*{
+    margin: 4px;
+    padding: 4px;
+}
+
+body{
+    background:rgb(188, 219, 248);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#Encabezado{
+    text-align: center;
+    background-image:url(nanotecnologia.jpg) ;
+    border-radius: 10%;
+}
+#Tabla{
+    margin-top: 10pt;
+    margin-bottom: 10pt;
+    margin-left: 130pt ;
+    margin-right: 140pt;
+    border-collapse: collapse;
+    
+}
+
+#Botones{
+    text-align: center;
+    background-image:url(tabla.jpg);
+    background-size: 50%;
+    
+}
+
+#Imagen{
+    text-align: center;
+    margin: 0%;
+}
